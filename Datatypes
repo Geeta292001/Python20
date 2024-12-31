@@ -1,0 +1,16 @@
+LIST:
+a list is a built-in dynamic sized array (automatically grows and shrinks).
+We can store all types of items (including another list) in a list.
+A list may contain mixed type of items, this is possible because a list mainly stores
+references at contiguous locations and actual items maybe stored at different locations.
+
+DICTIONARY:
+A Python dictionary is a data structure that stores the value in key: value pairs.
+Values in a dictionary can be of any data type and can be duplicated, whereas keys
+can’t be repeated and must be immutable.
+
+TUPLES:
+Python Tuple is a collection of objects separated by commas. A tuple is similar
+to a Python list in terms of indexing, nested objects, and repetition but the
+main difference between both is Python tuple is immutable, unlike the Python list
+which is mutable.
